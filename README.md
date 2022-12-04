@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ConnorDykes
 - 👀 I’m interested in Mobile Application Development & Web Development.
 - 🌱 I’m currently learning React & React Native.
+- ✅ I am a pro at Flutter Development
 - 📱 I have several apps published to the Apple App Store and Google Play Store.
 - 🧗🏻‍♂️ I am a dedicated Rock Climber in my spare time. 
 - 📫 How to reach me - Connormdykes@gmail.com
