@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ConnorDykes
 - 👀 I’m interested in Mobile Application Development & Web Development.
-- 🌱 I’m currently working at Immerison Neruo Science as a Lead Mobile Developer
 - ✅ I am a pro at Flutter Development
 - 📱 I have several apps published to the Apple App Store and Google Play Store.
 - 🧗🏻‍♂️ I am a dedicated Father & Rock Climber in my spare time. 
